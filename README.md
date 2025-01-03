@@ -21,7 +21,7 @@ This project implements a feature-rich shell interpreter in C as part of an Oper
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/enhanced-shell.git
+   git clone https://github.com/vvsndattasailingam/Implementation-of-Basic-Shell-Interpreter.git
    cd enhanced-shell
    ```
 
