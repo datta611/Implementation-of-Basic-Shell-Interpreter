@@ -22,7 +22,7 @@ This project implements a feature-rich shell interpreter in C as part of an Oper
 
    ```bash
    git clone https://github.com/vvsndattasailingam/Implementation-of-Basic-Shell-Interpreter.git
-   cd enhanced-shell
+   cd Implementation-of-Basic-Shell-Interpreter
    ```
 
 2. Compile the code:
