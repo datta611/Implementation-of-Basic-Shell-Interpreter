@@ -1,0 +1,15 @@
+
+# Basic commands
+ls
+pwd
+cd ..
+history
+
+# Commands with redirection
+cat < input.txt > output.txt
+
+# Pipelined commands
+ls | grep "test" | wc -l
+
+# Background job
+sleep 10 &
